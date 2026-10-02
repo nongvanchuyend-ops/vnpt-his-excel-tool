@@ -1,0 +1,15 @@
+curl --url ^"https://yte-backan.vnpthis.vn/web_his/danhsachloaidv_chitiet?url=TT^%^60^%^60^%^600^%^60^%^60^%^600^%^60^%^60^%^604^%^60^%^60^%^601^&_search=false^&nd=1790859317740^&rows=10000^&page=1^&sidx=TEN_DV^&sord=asc^" ^
+  -H ^"Accept: application/json, text/javascript, */*; q=0.01^" ^
+  -H ^"Accept-Language: en-US,en;q=0.9,vi;q=0.8^" ^
+  -H ^"Connection: keep-alive^" ^
+  -b ^"JSESSIONID=787b3993613a23a01e0f99d8af2c; enable2FA=0; isLoginOTP=0; userId=133865; booldangnhap=1; phongkham=12645; tenphongkham=B^%^C3^%^A0n^%^20kh^%^C3^%^A1m^%^2010; SESSIONID=^!CwtQUROzIkW7ZT3Xb7pVuLh7UlTkzRqXo5hua3d6GNtCbMRUpMlXzkM8jL1WSpQhdXB2FqmL6HNi7w==^" ^
+  -H ^"DNT: 1^" ^
+  -H ^"Referer: https://yte-backan.vnpthis.vn/web_his/dich_vu^" ^
+  -H ^"Sec-Fetch-Dest: empty^" ^
+  -H ^"Sec-Fetch-Mode: cors^" ^
+  -H ^"Sec-Fetch-Site: same-origin^" ^
+  -H ^"User-Agent: Mozilla/5.0 ^(Windows NT 10.0; Win64; x64^) AppleWebKit/537.36 ^(KHTML, like Gecko^) Chrome/154.0.0.0 Safari/537.36^" ^
+  -H ^"X-Requested-With: XMLHttpRequest^" ^
+  -H ^"sec-ch-ua: ^\^"Chromium^\^";v=^\^"154^\^", ^\^"Google Chrome^\^";v=^\^"154^\^", ^\^"Not A^(Brand^\^";v=^\^"99^\^"^" ^
+  -H ^"sec-ch-ua-mobile: ?0^" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^"

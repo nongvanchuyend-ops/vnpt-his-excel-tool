@@ -1,0 +1,14 @@
+{
+  "name": "vnpt-his-excel-tool",
+  "version": "1.0.0",
+  "description": "Tool trích xuất dữ liệu danh mục dịch vụ từ cURL VNPT-HIS sang file mẫu Excel chuẩn",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "cli": "node export_excel.js"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "xlsx": "^0.18.5"
+  }
+}
